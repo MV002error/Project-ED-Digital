@@ -5,4 +5,13 @@
 body {
     background-color: aqua;
     display: flex;
+    margin: 12px;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+div {
+    margin: 20px;
+    padding: 20px;
 }
